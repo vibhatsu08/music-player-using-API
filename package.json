@@ -1,0 +1,29 @@
+{
+  "name": "music-player-api-wrapper",
+  "version": "1.0.0",
+  "description": "A music player application built with plain HTML, CSS, and JavaScript, integrating the ShazamAPI for song search, playlists, and music playback.",
+  "keywords": [
+    "music",
+    "player",
+    "music-player",
+    "API",
+    "shazamAPI"
+  ],
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibhatsu08/music-player-using-API.git"
+  },
+  "author": "Vedant Mistry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vibhatsu08/music-player-using-API/issues"
+  },
+  "homepage": "https://github.com/vibhatsu08/music-player-using-API#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
